@@ -1,0 +1,62 @@
+[
+  {
+    "id": "F001",
+    "name": "Apple",
+    "price": 1.99,
+    "image": "https://example.com/images/apple.jpg"
+  },
+  {
+    "id": "F002",
+    "name": "Banana",
+    "price": 0.99,
+    "image": "https://example.com/images/banana.jpg"
+  },
+  {
+    "id": "F003",
+    "name": "Orange",
+    "price": 2.49,
+    "image": "https://example.com/images/orange.jpg"
+  },
+  {
+    "id": "V001",
+    "name": "Carrot",
+    "price": 1.49,
+    "image": "https://example.com/images/carrot.jpg"
+  },
+  {
+    "id": "V002",
+    "name": "Spinach",
+    "price": 1.79,
+    "image": "https://example.com/images/spinach.jpg"
+  },
+  {
+    "id": "V003",
+    "name": "Potato",
+    "price": 0.89,
+    "image": "https://example.com/images/potato.jpg"
+  },
+  {
+    "id": "S001",
+    "name": "Chips",
+    "price": 1.29,
+    "image": "https://example.com/images/chips.jpg"
+  },
+  {
+    "id": "S002",
+    "name": "Biscuits",
+    "price": 0.99,
+    "image": "https://example.com/images/biscuits.jpg"
+  },
+  {
+    "id": "D001",
+    "name": "Soda",
+    "price": 1.49,
+    "image": "https://example.com/images/soda.jpg"
+  },
+  {
+    "id": "D002",
+    "name": "Juice",
+    "price": 2.99,
+    "image": "https://example.com/images/juice.jpg"
+  }
+]
