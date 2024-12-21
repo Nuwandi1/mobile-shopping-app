@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "apple",
+    "price": 15.0,
+    "image": "apple.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Avacado",
+    "price": 20.0,
+    "image": "avacrdo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 35.0,
+    "image": "Bananas.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mango",
+    "price": 50.0,
+    "image": "mango.jpg"
+  },
+  {
+    "id": 5,
+    "name": "orange",
+    "price": 18.0,
+    "image": "orange.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Papaya",
+    "price": 10.0,
+    "image": "papaya.jpg"
+  },
+  {
+    "id": 7,
+    "name": "PineApple",
+    "price": 25.0,
+    "image": "pineapple.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Watermelon",
+    "price": 2.5,
+    "image": "watermelon.jpg"
+  },
+
+
+  {
+    "id": 51,
+    "name": "Carrot 500g",
+    "price": 3.0,
+    "image": "carrot.png"
+  },
+  {
+    "id": 52,
+    "name": "Bell pepper 500g",
+    "price": 1.5,
+    "image": "bellpeper.jpeg"
+  },
+  {
+    "id": 53,
+    "name": "Cabbage 500g",
+    "price": 2.0,
+    "image": "cabbage.jpeg"
+  },
+  {
+    "id": 54,
+    "name": "Radish 500g",
+    "price": 1.2,
+    "image": "radish.jpeg"
+  },
+  {
+    "id": 55,
+    "name": "gourd",
+    "price": 0.5,
+    "image": "gourd.jpeg"
+  },
+
+
+  {
+    "id": 101,
+    "name": "Mixture bite 500g",
+    "price": 1.5,
+    "image": "mixture_bites.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Snackers 200g",
+    "price": 1.5,
+    "image": "snackers.jpg"
+  },
+  {
+    "id": 104,
+    "name": "jujubes 200g",
+    "price": 1.5,
+    "image": "sweets.jpg"
+  },
+
+
+  {
+    "id": 151,
+    "name": "Chili Powder 500g",
+    "price": 1.5,
+    "image": "chilipowder.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Black Peper 500g",
+    "price": 1.5,
+    "image": "blackpepper.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Tumeric 500g",
+    "price": 1.5,
+    "image": "turmeric.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Salt 500g",
+    "price": 1.5,
+    "image": "salt.jpg"
+  },
+
+  {
+    "id": 201,
+    "name": "Milk Powder 500g",
+    "price": 1.5,
+    "image": "milkpowder.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Cocacola 500l",
+    "price": 1.5,
+    "image": "cacocola.jpeg"
+  },
+  {
+    "id": 203,
+    "name": "Book CR 80",
+    "price": 1.5,
+    "image": "book.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Soap ",
+    "price": 1.5,
+    "image": "soaps.jpg"
+  }
+
+
+]
