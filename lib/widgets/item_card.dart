@@ -20,7 +20,7 @@ class ItemCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      margin: const EdgeInsets.all(8.0),
+      margin: const EdgeInsets.all(4.0),
       elevation: 5,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -28,12 +28,12 @@ class ItemCard extends StatelessWidget {
           // Adjusting the size of the image
           Image.asset(
             'assets/images/$image', // Ensure the image path is correct
-            height: 93, // Adjusted height
+            height: 65, // Adjusted height
             width: 220,  // Adjusted width
             fit: BoxFit.cover,  // Ensure the image scales appropriately
           ),
           Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.all(4.0),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -41,9 +41,9 @@ class ItemCard extends StatelessWidget {
                   name,
                   style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                 ),
-                const SizedBox(height: 4),
+                const SizedBox(height: 0),
                 Text('\$${price.toStringAsFixed(2)}'),
-                const SizedBox(height: 8),
+                const SizedBox(height: 1),
                 ElevatedButton(
                   onPressed: () => _showQuantityDialog(context),
                   child: const Text('Add to Cart'),
